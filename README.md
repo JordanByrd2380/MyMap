@@ -3,7 +3,7 @@ My Map app
 
 ## *Jordan Byrd*
 
-**Tip Calculator App** Calculates the tip from going to a restaurant.
+**My Map App** Allows user to save locations.
 
 Time spent: **10** hours spent in total
 
